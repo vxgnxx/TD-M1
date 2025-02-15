@@ -1,2 +1,2 @@
 # TD-M1
-asdfas
+Repositório referente aos códigos desenvolvidos na disciplina de Técnicas Digitais
